@@ -1,11 +1,11 @@
-## Hi there 👋
+## 👋 Hi there
 
 I'm Om, a backend developer based in India.
 
-## Tools
+## ⚒️ Tools
 - Python
 - VS Code
 
-## My Hobbies
+## ✨ My Hobbies
 - I like working on new ideas
 - I watch anime and webseries
