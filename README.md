@@ -21,10 +21,3 @@
 ## 🛠️ WHAT I BUILD
 - 🧩 Backend  
 - 🤖 Automation
-
----
-
-## 📊 GITHUB ACTIVITY
-<p align="center">
-  <img src="https://ghchart.rshah.org/iommane" alt="GitHub contribution chart" />
-</p>
